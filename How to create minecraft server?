@@ -1,0 +1,9 @@
+Download minecraft server from this site (Official): Minecraft.net/en-us/download/server
+Create new folder and you need to move your file to the a folder and if you want server with plugins visit the papermc.io/downloads and load version what's you want
+click on a file .jar and wait few seconds
+open eula.txt and edit eula=false on: eula=true and again open .jar file server prepared to game but that you can't play, if you hasn't got a minecraft license edit online-mode=true on: online-mode=false
+create file .bat with any name and rename the .jar file on: server or papermc if you using paper
+open .bat file with any text editor and write: java -Xmx1024M -Xms1024M -jar server or papermc if you using paper.version.jar nogui
+Opening minecraft and in IP address write: localhost, but for load server you need to open .bat file
+Done, your server is ready for using!
+(For game with friends needs hamachi)
